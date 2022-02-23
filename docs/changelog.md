@@ -1,9 +1,7 @@
 ---
 title: Changelog
 slug: change-log
-cats:
-    General
-    Second Cat
+cats: General
 ---
 **Version 6.2.4 - 2022.02.11**
 
