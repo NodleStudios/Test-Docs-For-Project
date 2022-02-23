@@ -1,3 +1,3 @@
 # Test-Docs-For-Project
 
-This is for a cool project I'm working on watch this space.
+This is an example docs repo for a project I'm currently building called [BonitaDocs](https://bonitadocs.com/). If you head over to the website you can sign up to be notified of updates :)
