@@ -1,6 +1,6 @@
 ---
 title: Thank You Page
-cats: Thank You Page, How To
+cats: Thank You Page, How To, New Category
 ---
 
 The Thank You page feature replaces the order received page with a beautiful design that closely resembles the checkout page. This same template is used for viewing orders from My Account. It looks like this:
