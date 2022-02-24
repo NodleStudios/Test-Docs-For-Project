@@ -1,6 +1,5 @@
 ---
-title: Changelog
-slug: thank-you-page
+title: Thank You Page
 cats: Thank You Page, How To
 ---
 
